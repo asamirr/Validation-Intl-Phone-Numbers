@@ -1,4 +1,4 @@
-# Validation-Task
+# Validation-Intl-Phone-Numbers
 
 This repo contains ***both apps***. A React web application and a Spring Boot web application.
 
